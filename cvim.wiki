@@ -1,0 +1,10 @@
+1. set hjkl scroll
+{{{
+" Settings
+set nohud
+set smoothscroll
+let blacklists = ["https://chrome.google.com/*"]
+}}}
+2. let cvim work on local file
+    - chrome://extensions
+    - set Allow access to local file

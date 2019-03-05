@@ -1,0 +1,7 @@
+1. Finder：
+    1. cmd + ↑ ： 上一级
+    2. cmd + shift + . : 显示隐藏文件
+    3. Finder到终端：直接拖拽文件到终端即可。 终端到Finder:  终端中输入 open .
+
+2. Iterm
+    1. 让option+b/f 在单词之间移动， 需要设置 profile-keys， left opt key: Esc+

@@ -1,0 +1,8 @@
+* annually repo
+*  f
+2. ask for alibaba stock account
+
+
+work
+1. 无法开始踩点问题排查，历史数据，踩点再deliverer中状态不对
+2. odps数据迁移，修复拉新转化率报表

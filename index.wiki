@@ -1,0 +1,19 @@
+zjunothing personal wiki
+
+[[todo]]
+
+[[articles]]
+
+[[english]]
+
+[[work-note]]
+
+=== Tools ===
+* [[vim]]
+* [[git]]
+* [[mac]]
+* [[idea]]
+
+=== Book Note ===
+* [[[ddd-impl]]]
+* [[scratch]] -- various temporary stuff.
